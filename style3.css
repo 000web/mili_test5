@@ -35,7 +35,7 @@ html, body, #menu{
     grid-template-columns: 1fr;
     /*grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;*/ /* Better not to specify height of each section, otherwise content is overlapped */
     grid-template-areas:
-    "head"
+    /*"head"*/
     "p1"  /*CERVEZA*/                                    /*☢☢☢*/
     "p2"  /*MOJITOS*/
     "p3"  /*PIÑA COLADA*/
