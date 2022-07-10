@@ -28,6 +28,7 @@ html, body, #menu{
     margin: 0px;
 }
 #menu{
+    width: 100%;
     display: grid;
     grid-gap: 1rem; /* Gap between each product section */
     /*height: 1300vh;*/ /* Better not to specify height, so it is automatically adjusted */
